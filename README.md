@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Franki69420
+👋 Hello! I am Lord Francis B. Dungog
+
 - 🎮 I’m interested in gaming and listening to music
 - 🌱 I’m currently learning JS, HTML, CSS, and PHP
 - ⚡ Fun fact: I don't have a fun fact.
