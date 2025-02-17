@@ -1,4 +1,4 @@
-👋 Hello! I am Lord Francis B. Dungog
+#👋 Hello! I am Lord Francis B. Dungog
 
 - 🎮 I’m interested in gaming and listening to music
 - 🌱 I’m currently learning JS, HTML, CSS, and PHP
